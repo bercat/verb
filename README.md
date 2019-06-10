@@ -1,4 +1,4 @@
 # verb
 
 Skoleoppgave i java. 
-Teste bøyning av enegelske verb.
+Teste bøyning av engelske verb.
